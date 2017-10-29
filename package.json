@@ -42,7 +42,7 @@
     "prop-types": "15.5.10",
     "react-native-communications": "2.2.1",
     "react-native-invertible-scroll-view": "1.1.0",
-    "react-native-lightbox": "git://github.com/qdotme/react-native-lightbox.git",
+    "react-native-lightbox": "https://github.com/qdotme/react-native-lightbox.git",
     "react-native-parsed-text": "0.0.18",
     "shallowequal": "1.0.2",
     "uuid": "3.1.0"
